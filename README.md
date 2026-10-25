@@ -1,7 +1,5 @@
 # LeadLens
 
-**Built for:** Caprae Capital  
-**Status:** Prototype / Take-Home Submission
 
 ## AI Acquisition Intelligence Workspace
 
